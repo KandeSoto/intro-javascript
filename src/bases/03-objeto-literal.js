@@ -1,3 +1,6 @@
+//Objetos Literales
+//Operador Spread
+
 const persona = {
     nombre: "Tony",
     apellido: "Stark",
